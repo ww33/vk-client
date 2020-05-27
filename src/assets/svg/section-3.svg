@@ -1,0 +1,59 @@
+<svg width="324" height="301" viewBox="0 0 324 301" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g filter="url(#filter0_d)">
+    <g clip-path="url(#clip0)">
+      <path d="M258.1 40.4217L64.6627 46.8534C48.9171 47.3765 35.6727 58.2545 35.8514 71.1773L37.769 208.823C37.9714 222.959 49.5007 232.553 64.9366 231.483L100.096 229.057L99.9889 269.419C99.9651 276.552 105.682 278.335 108.85 272.237L132.469 226.834L256.063 218.298C267.378 217.514 276.192 206.945 276.442 194.45L279.074 60.8105C279.288 49.885 269.176 40.0531 258.1 40.4217Z" fill="url(#paint0_linear)"/>
+      <path d="M274.684 18.6776L46.272 35.2265C30.9428 36.344 20.3979 50.099 23.022 65.5542L46.748 205.589C48.8228 217.823 59.3433 227.096 71.841 227.773L101.364 229.39L104.538 263.13C105.075 268.813 109.956 270.965 112.178 266.506L129.948 230.96L253.533 237.748C266.153 238.438 277.259 228.986 278.98 216.135L301.254 49.0172C303.451 32.4208 290.514 17.5363 274.684 18.6776Z" stroke="#1157BF" stroke-width="2" stroke-miterlimit="10"/>
+      <ellipse cx="138.429" cy="243.753" rx="7.69198" ry="6.65414" fill="url(#paint1_linear)"/>
+      <ellipse cx="91.2517" cy="253.478" rx="3.58959" ry="3.07115" fill="url(#paint2_linear)"/>
+      <ellipse cx="50.2273" cy="43.6166" rx="3.58959" ry="3.07115" fill="url(#paint3_linear)"/>
+      <ellipse cx="30.7412" cy="162.368" rx="4.61519" ry="4.09486" fill="url(#paint4_linear)"/>
+      <path d="M155.517 75.126L107.965 133.076L157.108 198.974L206.237 132.289L155.517 75.126Z" fill="white"/>
+      <path d="M157.5 197.5L147 138L205.5 133L157.5 197.5Z" fill="#1FB9F9"/>
+      <path d="M155 77.9999L146 136.495L111.5 133L155 77.9999Z" fill="#C1EDFF"/>
+      <path d="M185.935 118L159 150.825L186.836 188.152L214.665 150.379L185.935 118Z" fill="#0084E4"/>
+      <path d="M187.059 187.317L181.111 153.614L214.248 150.782L187.059 187.317Z" fill="#004DA4"/>
+      <path d="M195.406 59.9263L177.762 81.4309L196.003 105.884L214.231 81.132L195.406 59.9263Z" fill="#004DA4"/>
+      <path d="M119.869 172.29L110.921 183.207L120.174 195.627L129.427 183.057L119.869 172.29Z" fill="white"/>
+      <path d="M107.58 87.228L95.7686 101.621L107.965 117.986L120.174 101.422L107.58 87.228Z" fill="#004DA4"/>
+      <path d="M186 118.5L182 153.5L159.024 150.97L186 118.5Z" fill="#43A5FF"/>
+      <path d="M196.083 61.1978L193.552 83.34L179.017 81.7396L196.083 61.1978Z" fill="#43A5FF"/>
+      <path d="M108.066 87.2629L106.254 103.116L95.8473 101.97L108.066 87.2629Z" fill="#43A5FF"/>
+      <path d="M120.044 172.24L118.705 183.963L111.009 183.115L120.044 172.24Z" fill="#9CD0FF"/>
+      <path d="M120.615 195L119 184.853L128 184L120.615 195Z" fill="#4DA1FF"/>
+    </g>
+  </g>
+  <defs>
+    <filter id="filter0_d" x="0" y="0" width="323.522" height="301" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dy="4"/>
+      <feGaussianBlur stdDeviation="10.5"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.275 0 0 0 0 0.565 0 0 0 0 1 0 0 0 0.74 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <linearGradient id="paint0_linear" x1="177.681" y1="-61.188" x2="391.819" y2="69.0932" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4690FF"/>
+      <stop offset="1" stop-color="#16C1F8"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="139.708" y1="231.358" x2="152.386" y2="239.992" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4690FF"/>
+      <stop offset="1" stop-color="#16C1F8"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear" x1="91.8484" y1="247.758" x2="97.7231" y2="251.803" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4690FF"/>
+      <stop offset="1" stop-color="#16C1F8"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear" x1="50.824" y1="37.8958" x2="56.6987" y2="41.941" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4690FF"/>
+      <stop offset="1" stop-color="#16C1F8"/>
+    </linearGradient>
+    <linearGradient id="paint4_linear" x1="31.5084" y1="154.74" x2="39.2359" y2="159.871" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4690FF"/>
+      <stop offset="1" stop-color="#16C1F8"/>
+    </linearGradient>
+    <clipPath id="clip0">
+      <rect x="21" y="17" width="281.522" height="259" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>

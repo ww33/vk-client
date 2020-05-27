@@ -1,0 +1,63 @@
+{
+  "name": "vk-client",
+  "version": "0.2.50",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "author": {
+    "name": "Igor Yarovenko",
+    "email": "yinfo333@gmail.com"
+  },
+  "dependencies": {
+    "@mdi/font": "^3.8.95",
+    "@vkontakte/vk-bridge-mock": "2.0.0",
+    "@vkontakte/vk-mini-apps-api": "^0.6.4",
+    "axios": "^0.19.2",
+    "core-js": "^2.6.5",
+    "dayjs": "^1.8.24",
+    "gsap": "^3.2.6",
+    "tween": "^0.9.0",
+    "volume-meter": "^2.0.1",
+    "vue": "^2.6.11",
+    "vue-class-component": "^7.2.3",
+    "vue-div-100vh": "^0.1.2",
+    "vue-linkify": "^1.0.1",
+    "vue-native-websocket": "^2.0.14",
+    "vue-progressive-image": "^3.2.0",
+    "vue-property-decorator": "^8.3.0",
+    "vue-router": "^3.1.6",
+    "vue2-perfect-scrollbar": "^1.4.0",
+    "vuetify": "^2.2.15",
+    "vuetify-avatar-uploader": "^0.3.0",
+    "vuetify-dialog-promise": "^2.2.4",
+    "vuex": "^3.1.2",
+    "vuex-module-decorators": "^0.16.1",
+    "webrtc-adapter": "^6.4.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.0.0",
+    "@typescript-eslint/parser": "^2.0.0",
+    "@vue/cli-plugin-babel": "^3.10.0",
+    "@vue/cli-plugin-typescript": "^3.10.0",
+    "@vue/cli-plugin-unit-jest": "^3.10.0",
+    "@vue/cli-service": "^3.10.0",
+    "@vue/eslint-config-typescript": "^4.0.0",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "gh-pages": "^2.2.0",
+    "node-sass": "^4.12.0",
+    "sass": "^1.22.9",
+    "sass-loader": "^7.1.0",
+    "ts-loader": "^6.0.2",
+    "typescript": "^3.4.5",
+    "vue-template-compiler": "^2.6.11",
+    "prettier": "^2.0.4",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-config-prettier": "^6.10.1"
+  },
+  "homepage": "https://ww33.github.io/vk-client"
+}
