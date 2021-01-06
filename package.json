@@ -14,7 +14,7 @@
     "@mdi/font": "^3.8.95",
     "@vkontakte/vk-bridge-mock": "2.0.0",
     "@vkontakte/vk-mini-apps-api": "^0.6.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "dayjs": "^1.8.24",
     "gsap": "^3.2.6",
